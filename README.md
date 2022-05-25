@@ -20,16 +20,26 @@ This portfolio provides an overview of data science-related work I've done since
 
 [DS6001 - Practice and Application of Data Science](https://github.com/nkeeley/nkeeley/edit/main/README.md#ds6001---practice-and-application-of-data-science)
 
+[DVA - Data Visualization and Analytics](https://github.com/nkeeley/nkeeley/edit/main/README.md#dva---data-visualization-and-analytics)
+
+[DSB - Data Science in Business](https://github.com/nkeeley/nkeeley/edit/main/README.md#dsb---data-science-in-business)
+
+[Text Analytics Project: Exploring Company Earnings Calls Before & After COVID-19](https://github.com/nkeeley/nkeeley/edit/main/README.md#text-analytics-project-exploring-company-earnings-calls-before--after-covid-19)
+
 
 ### CS5010 - Programming and Systems for Data Analysis
 
 [Repository](https://github.com/nkeeley/CS5010-Programming_and_Systems_for_Data_Analysis)
+
+Language types: Python
 
 This repository contains key assignments and projects for an introductory programming course in Python. Topics include object oriented programming, webscraping, data visualization, and pandas dataframe querying.
 
 ### CS5012 - Foundations of Computer Science
 
 [Repository](https://github.com/nkeeley/CS5012-Foundations_of_Computer_Science)
+
+Language types: Python
 
 This repository contains entity-relationship diagrams, alongwith a series of notebooks on the following topics: graph networks, search algorithms, regular expressions, hash tables, database transactions, propositional logic, Big-O complexity, and the solutions for Nearest-Neighbor/Closest-Pair problems.
 
@@ -39,6 +49,8 @@ This repository contains entity-relationship diagrams, alongwith a series of not
 
 [Repository](https://github.com/nkeeley/STAT6021-Linear_Models_for_Data_Science)
 
+Language types: R
+
 This repository contains assignments and projects for a course on basic statistics for data science. Course topics included single linear regression, multiple linear regression, logistic regression, transformation, ANOVA F-tests, stepwise/backwards/forwards model creation, and linearity assumptions.
 
 ![Sample Visualization](https://github.com/nkeeley/STAT6021-Linear_Models_for_Data_Science/blob/main/STAT6021_DiamondVisual%20copy.jpg)
@@ -46,6 +58,8 @@ This repository contains assignments and projects for a course on basic statisti
 ### DS6001 - Practice and Application of Data Science
 
 [Repository](https://github.com/nkeeley/DS6001-Practice_and_Application_of_Data_Science)
+
+Language types: Python, SQL
 
 This repository contains assignments that involve loading, processing, and querying data along the "data pipeline." Data was accessed via tabular files, relational/NoDBMS databases, and APIs.
 
@@ -69,9 +83,39 @@ winedb.commit()
 winedb.close()
 ```
 
+### DVA - Data Visualization and Analytics
+
+[Repository](https://github.com/nkeeley/DVA-Data_Visualization_and_Analytics)
+
+Language types: SQL
+
+This repository contains assignments involving data visualizations via Tableau, as well as big data querying/predictive model generation using GoogleBigQuery.
+
+![BigQuery](https://github.com/nkeeley/DVA-Data_Visualization_and_Analytics/blob/main/GoogleBigQuery.jpg)
+
+### DSB - Data Science in Business
+
+[Repository](https://github.com/nkeeley/DSB---Data-Science-in-Business)
+
+Language types: Python
+
+This repository contains several assignments and projects related to predictive modeling (using machine learning tecniques), data munging, and data visualization. For the capstone project, my team and I submitted a model to an expired Kaggle competition: the Microsoft Malware Classification Challenge.
+
+![Kaggle Comp](https://github.com/nkeeley/DSB---Data-Science-in-Business/blob/main/KaggleComp.jpg)
+
+### Text Analytics Project: Exploring Company Earnings Calls Before & After COVID-19
+
+[Repository](https://github.com/nkeeley/Exploring-Company-Earnings-Calls)
+
+Language types: Python
+
+For the capstone project of my Exploratory Text Analytics class, I chose to investigate how company earnings call language changed before/after the onset of the COVID-19 pandemic. I produced my own raw text dataset by scraping over 35K earnings calls publicly available on the Motley Fool's website, ultimately refining the corpus into a digital analytical edition and conducting text analytics.
+
+![Sentiments](https://github.com/nkeeley/Exploring-Company-Earnings-Calls/blob/main/SentimentSectors.jpg)
+
+
 <!--
 **nkeeley/nkeeley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
