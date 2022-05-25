@@ -28,7 +28,7 @@ This repository contains key assignments and projects for an introduction to Pyt
 
 This repository contains entity-relationship diagrams, alongwith a series of notebooks on the following topics: graph networks, search algorithms, regular expressions, hash tables, database transactions, propositional logic, Big-O complexity, and the solutions for Nearest-Neighbor/Closest-Pair problems.
 
-![Sample ER Diagram](https://app.diagrams.net/#Hnkeeley%2FCS5012-Foundations_of_Computer_Science%2Fmain%2FKeeley_HW8.6_24OCT2020)
+![Sample ER Diagram](https://github.com/nkeeley/CS5012-Foundations_of_Computer_Science/blob/main/Screen%20Shot%202022-05-24%20at%2010.17.54%20PM.png)
 
 <!--
 **nkeeley/nkeeley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
