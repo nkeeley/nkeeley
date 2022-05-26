@@ -28,6 +28,8 @@ This portfolio provides an overview of data science-related work I've done since
 
 [DS6030 - Statistical Learning](https://github.com/nkeeley/nkeeley/edit/main/README.md#ds6030---statistical-learning)
 
+[Capstone Project: Measuring Shopper Marketing Effectiveness](https://github.com/nkeeley/nkeeley/edit/main/README.md#capstone-project-measuring-shopper-marketing-effectiveness)
+
 
 ### CS5010 - Programming and Systems for Data Analysis
 
@@ -124,6 +126,17 @@ Language types: R
 This repository contains exams and assignments primarily involving hyperparameter tuning of statistical models. Additional topics include KNN models, model-based clustering/Kernel Density Estimation, association analysis, and validation techniques (e.g. OOB, k-fold, etc.). Note: each .Rmd file has an associated HTML file with a similar name.
 
 ![image](https://github.com/nkeeley/DS6030-Statistical-Learning/blob/main/HyperparameterAdjustment.jpg)
+
+### Capstone Project: Measuring Shopper Marketing Effectiveness
+
+[Repository](https://github.com/nkeeley/capstone-project-measuring-shopper-marketing-tactic-effectiveness/blob/main/README.md)
+
+Language types: SQL, Python
+
+For the capstone project of our Master in Data Science program, my project team was assigned to help a leading international consumer packaged goods (CPG) firm with assessing the effectiveness of their shopper marketing tactics using "big data" (~30M rows) that they provided. Based on pre-existing literature on retail sales forecasting, I decided to develop a random forest model using walk-forward validation. My model ultimately outperformed our baseline/other competing models, and was accepted by our client for further development. Due to the proprietary nature of the data involved, this project notebook is selectively available by request - please message me at https://www.linkedin.com/in/nicholas-g-keeley/. 
+
+![image](https://github.com/nkeeley/capstone-project-measuring-shopper-marketing-tactic-effectiveness/blob/main/CapstoneScreenshot2.jpg)
+
 
 <!--
 **nkeeley/nkeeley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
