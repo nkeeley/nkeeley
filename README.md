@@ -26,6 +26,8 @@ This portfolio provides an overview of data science-related work I've done since
 
 [Text Analytics Project: Exploring Company Earnings Calls Before & After COVID-19](https://github.com/nkeeley/nkeeley/edit/main/README.md#text-analytics-project-exploring-company-earnings-calls-before--after-covid-19)
 
+[DS6030 - Statistical Learning](https://github.com/nkeeley/nkeeley/edit/main/README.md#ds6030---statistical-learning)
+
 
 ### CS5010 - Programming and Systems for Data Analysis
 
@@ -113,6 +115,15 @@ For the capstone project of my Exploratory Text Analytics class, I chose to inve
 
 ![Sentiments](https://github.com/nkeeley/Exploring-Company-Earnings-Calls/blob/main/SentimentSectors.jpg)
 
+### DS6030 - Statistical Learning
+
+[Repository](https://github.com/nkeeley/DS6030-Statistical-Learning/blob/main/README.md)
+
+Language types: R
+
+This repository contains exams and assignments primarily involving hyperparameter tuning of statistical models. Additional topics include KNN models, model-based clustering/Kernel Density Estimation, association analysis, and validation techniques (e.g. OOB, k-fold, etc.). Note: each .Rmd file has an associated HTML file with a similar name.
+
+![image](https://github.com/nkeeley/DS6030-Statistical-Learning/blob/main/HyperparameterAdjustment.jpg)
 
 <!--
 **nkeeley/nkeeley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
