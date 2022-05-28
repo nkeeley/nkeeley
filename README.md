@@ -34,6 +34,8 @@ This portfolio provides an overview of data science-related work I've done since
 
 [DS6050 - Deep Learning](https://github.com/nkeeley/nkeeley/edit/main/README.md#ds6050---deep-learning)
 
+[DS5001 - Exploratory Text Analytics](https://github.com/nkeeley/nkeeley/edit/main/README.md#ds5001---exploratory-text-analytics)
+
 
 ### CS5010 - Programming and Systems for Data Analysis
 
@@ -160,6 +162,16 @@ Language types: Python
 This repository contains the assignments and projects related to a Deep Learning course. Topics included the architectures of Convolutional Neural Networks (CNNs), construction of CNNs from scratch and via Tensorflow Keras, the creation of recurrent neural networks, the application of transfer learning, and the detection of GAN-generated satellite images. Note: To facilitate efficiency, all assignments contained varying degrees of templated material provided by the professor. Also, all assignment were run in GoogleCollabPro to reduce runtime duration/RAM maxout.
 
 ![image](https://github.com/nkeeley/DS6050---Deep-Learning/blob/main/FiltersImage.jpg)
+
+### DS5001 - Exploratory Text Analytics
+
+[Repository](https://github.com/nkeeley/DS5001---Exploratory-Text-Analytics)
+
+Language types: Python
+
+This repository contains assignments and projects associated with exploratory text analytics. Topics include manual text cleansing/OHCO chunking using regex, parts of speech annotation, term-frequency analysis, n-gram analysis, agglomerative clustering, principal components analysis, topic modeling, and semantic algebra through word embeddings. For sentiment analysis-related content covered in class, please see https://github.com/nkeeley/Exploring-Company-Earnings-Calls. Note: All assignments were based off of templates provided by the professor, and adapted to meet the needs of assigned problem solutions and different corpora.
+
+![sample](https://github.com/nkeeley/DS5001---Exploratory-Text-Analytics/blob/main/TopicModel.jpg)
 
 <!--
 **nkeeley/nkeeley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
