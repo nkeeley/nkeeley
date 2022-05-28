@@ -1,4 +1,4 @@
-## Nicholas Keeley's Portfolio
+## Nick's Portfolio
 
 
 ### Description
