@@ -49,7 +49,7 @@ This repository contains key assignments and projects for an introductory progra
 
 Language types: Python
 
-This repository contains entity-relationship diagrams, alongwith a series of notebooks on the following topics: graph networks, search algorithms, regular expressions, hash tables, database transactions, propositional logic, Big-O complexity, and the solutions for Nearest-Neighbor/Closest-Pair problems.
+This repository contains assignments and projects related to the fundamentals of relational database design, data structures, and algorithmic programminig. Topics include entity-relationship diagrams, graph networks, search algorithms, regular expressions, hash tables, database transactions, propositional logic, Big-O complexity, and the solutions for Nearest-Neighbor/Closest-Pair problems.
 
 ![Sample ER Diagram](https://github.com/nkeeley/CS5012-Foundations_of_Computer_Science/blob/main/Screen%20Shot%202022-05-24%20at%2010.17.54%20PM.png)
 
