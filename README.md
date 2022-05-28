@@ -30,6 +30,8 @@ This portfolio provides an overview of data science-related work I've done since
 
 [Capstone Project: Measuring Shopper Marketing Effectiveness](https://github.com/nkeeley/nkeeley/edit/main/README.md#capstone-project-measuring-shopper-marketing-effectiveness)
 
+[DS6014 - Bayesian Machine Learning](https://github.com/nkeeley/nkeeley/edit/main/README.md#ds6014---bayesian-machine-learning)
+
 
 ### CS5010 - Programming and Systems for Data Analysis
 
@@ -137,6 +139,15 @@ For the capstone project of our Master in Data Science program, my project team 
 
 ![image](https://github.com/nkeeley/capstone-project-measuring-shopper-marketing-tactic-effectiveness/blob/main/CapstoneScreenshot2.jpg)
 
+### DS6014 - Bayesian Machine Learning
+
+[Repository](https://github.com/nkeeley/DS6014---Bayesian-Machine-Learning)
+
+Language types: Python
+
+This repository contains assignments and projects relevant to Bayesian Machine Learning. Topics include practical applications of Bayes Theorem and conjugate analysis, Naive Bayes Classifiers and LDA/QDA Bayes Optimal Classifiers, Bayesian regression models, sampling methods (e.g. Gibbs Sampling, MCMC sampling, etc.), variational inference, Hidden Markov Models, pooled vs unpooled vs. hiearchical models, and an implementation of autoencoder variational Bayes to topic modeling. Note: many of these notebooks were produced on a remote operating system with pymc3 pre-installed. This package is required to run many of the sampling methods used, and is challenging to install on many computers.
+
+![image](https://github.com/nkeeley/DS6014---Bayesian-Machine-Learning/blob/main/BayesSampleImage.jpg)
 
 <!--
 **nkeeley/nkeeley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
