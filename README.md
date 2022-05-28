@@ -119,7 +119,7 @@ Language types: Python
 
 For the capstone project of my Exploratory Text Analytics class, I chose to investigate how company earnings call language changed before/after the onset of the COVID-19 pandemic. I produced my own raw text dataset by scraping over 35K earnings calls publicly available on the Motley Fool's website, ultimately refining the corpus into a digital analytical edition and conducting text analytics.
 
-![Sentiments](https://github.com/nkeeley/Exploring-Company-Earnings-Calls/blob/main/SentimentSectors.jpg)
+![image](https://github.com/nkeeley/Exploring-Company-Earnings-Calls/blob/main/ClusteringTickers.jpg)
 
 ### DS6030 - Statistical Learning
 
@@ -129,7 +129,7 @@ Language types: R
 
 This repository contains exams and assignments primarily involving hyperparameter tuning of statistical models. Additional topics include KNN models, model-based clustering/Kernel Density Estimation, association analysis, and validation techniques (e.g. OOB, k-fold, etc.). Note: each .Rmd file has an associated HTML file with a similar name.
 
-![image](https://github.com/nkeeley/DS6030-Statistical-Learning/blob/main/HyperparameterAdjustment.jpg)
+![image](https://github.com/nkeeley/DS6030-Statistical-Learning/blob/main/TreeTuning.jpg)
 
 ### Capstone Project: Measuring Shopper Marketing Effectiveness
 
@@ -159,7 +159,7 @@ Language types: Python
 
 This repository contains the assignments and projects related to a Deep Learning course. Topics included the architectures of Convolutional Neural Networks (CNNs), construction of CNNs from scratch and via Tensorflow Keras, the creation of recurrent neural networks, the application of transfer learning, and the detection of GAN-generated satellite images. Note: To facilitate efficiency, all assignments contained varying degrees of templated material provided by the professor. Also, all assignment were run in GoogleCollabPro to reduce runtime duration/RAM maxout.
 
-![image](https://github.com/nkeeley/DS6050---Deep-Learning/blob/main/HsuSampleImage.jpg)
+![image](https://github.com/nkeeley/DS6050---Deep-Learning/blob/main/FiltersImage.jpg)
 
 <!--
 **nkeeley/nkeeley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
