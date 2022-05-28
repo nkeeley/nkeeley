@@ -109,7 +109,7 @@ Language types: Python
 
 This repository contains several assignments and projects related to predictive modeling (using machine learning tecniques), data munging, and data visualization. For the capstone project, my team and I submitted a model to an expired Kaggle competition: the Microsoft Malware Classification Challenge.
 
-![Kaggle Comp](https://github.com/nkeeley/DSB---Data-Science-in-Business/blob/main/KaggleComp.jpg)
+![image](https://github.com/nkeeley/DSB---Data-Science-in-Business/blob/main/TreeImage.jpg)
 
 ### Text Analytics Project: Exploring Company Earnings Calls Before & After COVID-19
 
