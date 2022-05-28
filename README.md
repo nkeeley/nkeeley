@@ -32,6 +32,8 @@ This portfolio provides an overview of data science-related work I've done since
 
 [DS6014 - Bayesian Machine Learning](https://github.com/nkeeley/nkeeley/edit/main/README.md#ds6014---bayesian-machine-learning)
 
+[DS6050 - Deep Learning](https://github.com/nkeeley/nkeeley/edit/main/README.md#ds6050---deep-learning)
+
 
 ### CS5010 - Programming and Systems for Data Analysis
 
@@ -148,6 +150,16 @@ Language types: Python
 This repository contains assignments and projects relevant to Bayesian Machine Learning. Topics include practical applications of Bayes Theorem and conjugate analysis, Naive Bayes Classifiers and LDA/QDA Bayes Optimal Classifiers, Bayesian regression models, sampling methods (e.g. Gibbs Sampling, MCMC sampling, etc.), variational inference, Hidden Markov Models, pooled vs unpooled vs. hiearchical models, and an implementation of autoencoder variational Bayes to topic modeling. Note: many of these notebooks were produced on a remote operating system with pymc3 pre-installed. This package is required to run many of the sampling methods used, and is challenging to install on many computers.
 
 ![image](https://github.com/nkeeley/DS6014---Bayesian-Machine-Learning/blob/main/BayesSampleImage.jpg)
+
+### DS6050 - Deep Learning
+
+[Repository](https://github.com/nkeeley/DS6050---Deep-Learning)
+
+Language types: Python
+
+This repository contains the assignments and projects related to a Deep Learning course. Topics included the architectures of Convolutional Neural Networks (CNNs), construction of CNNs from scratch and via Tensorflow Keras, the creation of recurrent neural networks, the application of transfer learning, and the detection of GAN-generated satellite images. Note: To facilitate efficiency, all assignments contained varying degrees of templated material provided by the professor. Also, all assignment were run in GoogleCollabPro to reduce runtime duration/RAM maxout.
+
+![image](https://github.com/nkeeley/DS6050---Deep-Learning/blob/main/HsuSampleImage.jpg)
 
 <!--
 **nkeeley/nkeeley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
