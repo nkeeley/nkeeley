@@ -7,7 +7,7 @@ This portfolio provides an overview of data science-related work I've done since
 
 Language types: SQL, R, Python
 
-![](https://komarev.com/ghpvc/?username=nkeeley)
+![](https://komarev.com/ghpvc/?username=nkeeley&color=blue)
 
 ### Table of Contents
 
