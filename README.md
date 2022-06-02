@@ -7,6 +7,8 @@ This portfolio provides an overview of data science-related work I've done since
 
 Language types: SQL, R, Python
 
+![](https://komarev.com/ghpvc/?username=nkeeley)
+
 ### Table of Contents
 
 [CS5010 - Programming and Systems for Data Analysis](https://github.com/nkeeley/nkeeley/edit/main/README.md#cs5010---programming-and-systems-for-data-analysis)
