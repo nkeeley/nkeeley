@@ -3,7 +3,7 @@
 
 ### Description
 
-This portfolio provides an overview of data science-related work I've done since 2020, when I began a Masters in Data Science at the University of Virginia. Last updated: 24 MAY 2022.
+This portfolio provides an overview of data science-related work I've done since 2020. Last updated: 15 JUL 2023.
 
 Language types: SQL, R, Python
 
