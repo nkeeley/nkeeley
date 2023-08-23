@@ -76,8 +76,7 @@ Teamed up with a group of friends to create a team optimization dashboard/produc
 Website (in progress) here: https://www.serapis.dev/
 08/06/2023 demo: https://www.youtube.com/watch?v=jh-vbAVWUtA
 
-
-
+![image](https://github.com/nkeeley/serapis_demo/blob/main/serapis_pic.jpg)
 
 ## Academic
 
