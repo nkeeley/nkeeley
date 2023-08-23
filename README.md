@@ -20,6 +20,8 @@ Language types: SQL, R, Python, HTML.
 
 ### Academic
 
+[Project: "Cash, Credibility, and Conversion: The Influence of Synthetic Media on Investment Behavior" 现金、信念、和转化：合成媒体对投资行为的影响]
+
 [Project: Exploring Company Earnings Calls Before & After COVID-19 (Exploratory Text Analytics)](https://github.com/nkeeley/nkeeley/edit/main/README.md#text-analytics-project-exploring-company-earnings-calls-before--after-covid-19)
 
 [Programming and Systems for Data Analysis (CS5010)](https://github.com/nkeeley/nkeeley/edit/main/README.md#cs5010---programming-and-systems-for-data-analysis)
