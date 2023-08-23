@@ -1,4 +1,4 @@
-### Description
+## Description
 
 This portfolio provides a snapshot of data science-related work I've done personally, professionally, and academically. 
 
@@ -8,7 +8,7 @@ Language types: SQL, R, Python, HTML.
 
 ![](https://komarev.com/ghpvc/?username=nkeeley&color=blue)
 
-### Table of Contents
+## Table of Contents
 
 [Programming and Systems for Data Analysis (CS5010)](https://github.com/nkeeley/nkeeley/edit/main/README.md#cs5010---programming-and-systems-for-data-analysis)
 
@@ -26,7 +26,7 @@ Language types: SQL, R, Python, HTML.
 
 [Statistical Learning / Data Mining (DS6030)](https://github.com/nkeeley/nkeeley/edit/main/README.md#ds6030---statistical-learning)
 
-[Project: Shopper Marketing Optimization (MSDS Capstone Project)](https://github.com/nkeeley/nkeeley/edit/main/README.md#capstone-project-measuring-shopper-marketing-effectiveness)
+[Project: Shopper Marketing ROI Optimization (MSDS Capstone Project)](https://github.com/nkeeley/nkeeley/edit/main/README.md#capstone-project-measuring-shopper-marketing-effectiveness)
 
 [Bayesian Machine Learning (DS6014)](https://github.com/nkeeley/nkeeley/edit/main/README.md#ds6014---bayesian-machine-learning)
 
@@ -43,7 +43,7 @@ Language types: Python
 
 This repository contains key assignments and projects for an introductory programming course in Python. Topics include object oriented programming, webscraping, data visualization, and pandas dataframe querying.
 
-### CS5012 - Foundations of Computer Science
+###  Foundations of Computer Science (CS5012)
 
 [Repository](https://github.com/nkeeley/CS5012-Foundations_of_Computer_Science)
 
@@ -53,7 +53,7 @@ This repository contains assignments and projects related to the fundamentals of
 
 ![Sample ER Diagram](https://github.com/nkeeley/CS5012-Foundations_of_Computer_Science/blob/main/Screen%20Shot%202022-05-24%20at%2010.17.54%20PM.png)
 
-### STAT6012 - Linear Models for Data Science
+### Linear Models for Data Science (STAT6012)
 
 [Repository](https://github.com/nkeeley/STAT6021-Linear_Models_for_Data_Science)
 
@@ -63,7 +63,7 @@ This repository contains assignments and projects for a course on basic statisti
 
 ![Sample Visualization](https://github.com/nkeeley/STAT6021-Linear_Models_for_Data_Science/blob/main/STAT6021_DiamondVisual%20copy.jpg)
 
-### DS6001 - Practice and Application of Data Science
+### Practice and Application of Data Science (DS6001)
 
 [Repository](https://github.com/nkeeley/DS6001-Practice_and_Application_of_Data_Science)
 
@@ -91,7 +91,7 @@ winedb.commit()
 winedb.close()
 ```
 
-### DVA - Data Visualization and Analytics
+###  Data Visualization and Analytics (DVA)
 
 [Repository](https://github.com/nkeeley/DVA-Data_Visualization_and_Analytics)
 
@@ -101,7 +101,7 @@ This repository contains assignments involving data visualizations via Tableau, 
 
 ![BigQuery](https://github.com/nkeeley/DVA-Data_Visualization_and_Analytics/blob/main/GoogleBigQuery.jpg)
 
-### DSB - Data Science in Business
+### Data Science in Business (DSB)
 
 [Repository](https://github.com/nkeeley/DSB---Data-Science-in-Business)
 
@@ -111,7 +111,7 @@ This repository contains several assignments and projects related to predictive 
 
 ![image](https://github.com/nkeeley/DSB---Data-Science-in-Business/blob/main/TreeImage.jpg)
 
-### Text Analytics Project: Exploring Company Earnings Calls Before & After COVID-19
+### Project: Exploring Company Earnings Calls Before & After COVID-19 (Exploratory Text Analytics)
 
 [Repository](https://github.com/nkeeley/Exploring-Company-Earnings-Calls)
 
@@ -121,7 +121,7 @@ For the capstone project of my Exploratory Text Analytics class, I chose to inve
 
 ![image](https://github.com/nkeeley/Exploring-Company-Earnings-Calls/blob/main/ClusteringTickers.jpg)
 
-### DS6030 - Statistical Learning
+###  Statistical Learning (DS6030)
 
 [Repository](https://github.com/nkeeley/DS6030-Statistical-Learning/blob/main/README.md)
 
@@ -131,7 +131,7 @@ This repository contains exams and assignments primarily involving hyperparamete
 
 ![image](https://github.com/nkeeley/DS6030-Statistical-Learning/blob/main/TreeTuning.jpg)
 
-### Capstone Project: Measuring Shopper Marketing Effectiveness
+### Project: Shopper Marketing ROI Optimization (MSDS Capstone)
 
 [Repository](https://github.com/nkeeley/capstone-project-measuring-shopper-marketing-tactic-effectiveness/blob/main/README.md)
 
@@ -141,7 +141,7 @@ For the capstone project of our Master in Data Science program, my project team 
 
 ![image](https://github.com/nkeeley/capstone-project-measuring-shopper-marketing-tactic-effectiveness/blob/main/CapstoneScreenshot2.jpg)
 
-### DS6014 - Bayesian Machine Learning
+### Bayesian Machine Learning (DS6014)
 
 [Repository](https://github.com/nkeeley/DS6014---Bayesian-Machine-Learning)
 
@@ -151,7 +151,7 @@ This repository contains assignments and projects relevant to Bayesian Machine L
 
 ![image](https://github.com/nkeeley/DS6014---Bayesian-Machine-Learning/blob/main/BayesSampleImage.jpg)
 
-### DS6050 - Deep Learning
+### Deep Learning (DS6050)
 
 [Repository](https://github.com/nkeeley/DS6050---Deep-Learning)
 
@@ -161,7 +161,7 @@ This repository contains the assignments and projects related to a Deep Learning
 
 ![image](https://github.com/nkeeley/DS6050---Deep-Learning/blob/main/FiltersImage.jpg)
 
-### DS5001 - Exploratory Text Analytics
+### Exploratory Text Analytics (DS5001)
 
 [Repository](https://github.com/nkeeley/DS5001---Exploratory-Text-Analytics)
 
