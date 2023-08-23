@@ -8,7 +8,6 @@ Language types: SQL, R, Python, HTML.
 
 ![](https://komarev.com/ghpvc/?username=nkeeley&color=blue)
 
-## ----------------------
 ## Table of Contents
 
 ### Professional
@@ -42,7 +41,7 @@ Language types: SQL, R, Python, HTML.
 [Deep Learning (DS6050)](https://github.com/nkeeley/nkeeley/edit/main/README.md#ds6050---deep-learning)
 
 [Exploratory Text Analytics (DS5001)](https://github.com/nkeeley/nkeeley/edit/main/README.md#ds5001---exploratory-text-analytics)
-## ----------------------
+## 
 
 ## Professional
 
