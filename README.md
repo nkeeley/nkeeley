@@ -51,7 +51,7 @@ Language types: SQL, R, Python, HTML.
 
 Language types: SQL, Python
 
-For the capstone project of our Master in Data Science program, my project team was assigned to help a leading international consumer packaged goods (CPG) firm with assessing the effectiveness of their shopper marketing tactics using "big data" (~30M rows) that they provided. Based on pre-existing literature on retail sales forecasting, I decided to develop a random forest model using walk-forward validation. My model ultimately outperformed our baseline/other competing models, and was accepted by our client for further development. Due to the proprietary nature of the data involved, this project notebook is selectively available by request - please message me at https://www.linkedin.com/in/nicholas-g-keeley/. 
+A leading international consumer packaged goods (CPG) company asked our team (capstone project) to help with assessing the ROI of their shopper marketing strategies. They provided us access to their database, which totaled over 30M customer transactions and product marketing efforts. Our team extracted, cleaned, and aggregated this data prior to analysis. Based on pre-existing literature on retail sales forecasting, I chose to build a random forest model using walk-forward validation. My model ultimately outperformed our baseline/other competing models, and was accepted by our client for further development. We were able to use this model to determine effective vs. ineffective marketing strategies. Due to the proprietary nature of the data involved, this project notebook is selectively available by request - please message me at https://www.linkedin.com/in/nicholas-g-keeley/. 
 
 ![image](https://github.com/nkeeley/capstone-project-measuring-shopper-marketing-tactic-effectiveness/blob/main/CapstoneScreenshot2.jpg)
 
@@ -59,13 +59,23 @@ For the capstone project of our Master in Data Science program, my project team 
 
 ## Academic
 
+### Project: "Cash, Credibility, and Conversion: The Influence of Synthetic Media on Investment Behavior" 现金、信念、和转化：合成媒体对投资行为的影响 
+
+Repository: In progress
+
+Language types: Python
+
+For the capstone project of the Schwarzman Scholars program, I empirically evaluated the influence of synthetic text on investment behavior (inspired by deepfakes and other forms of synthetic disinformation). I created two different survey versions in Chinese, embedding each with either a real earnings call transcript sample or a ChatGPT-generated one. Respondents were randomly exposed to either survey version and asked a series of questions. Data was compiled from the surveys, aggregated, and then analyzed via Welch t-tests. Semantic analysis (using a Chinese parser!) was conducted on qualitative responses. Results indicated that AI-generated financial text can significantly alter investor behavior, and even introduce more extreme "conversions" in opionion than their genuine counterparts. Full paper (Arxiv) here: https://arxiv.org/abs/2306.05033.
+
+
+
 ### Project: Exploring Company Earnings Calls Before & After COVID-19 (Exploratory Text Analytics)
 
 [Repository](https://github.com/nkeeley/Exploring-Company-Earnings-Calls)
 
 Language types: Python
 
-For the capstone project of my Exploratory Text Analytics class, I chose to investigate how company earnings call language changed before/after the onset of the COVID-19 pandemic. I produced my own raw text dataset by scraping over 35K earnings calls publicly available on the Motley Fool's website, ultimately refining the corpus into a digital analytical edition and conducting text analytics.
+For the capstone project of my Exploratory Text Analytics class, I chose to investigate how company earnings call language changed before/after the onset of the COVID-19 pandemic. I produced my own raw text dataset by scraping over 35K earnings calls publicly available on the Motley Fool's website, ultimately refining the corpus into a digital analytical edition that contained topic modeling, semantic algebra, PCA, agglomerative clustering, and more.
 
 ![image](https://github.com/nkeeley/Exploring-Company-Earnings-Calls/blob/main/ClusteringTickers.jpg)
 
@@ -141,7 +151,7 @@ This repository contains assignments involving data visualizations via Tableau, 
 
 Language types: Python
 
-This repository contains several assignments and projects related to predictive modeling (using machine learning tecniques), data munging, and data visualization. For the capstone project, my team and I submitted a model to an expired Kaggle competition: the Microsoft Malware Classification Challenge.
+This repository contains several assignments and projects related to predictive modeling (using machine learning tecniques), data munging, and data visualization. For the final project, my team and I submitted a model to an expired Kaggle competition: the Microsoft Malware Classification Challenge.
 
 ![image](https://github.com/nkeeley/DSB---Data-Science-in-Business/blob/main/TreeImage.jpg)
 
@@ -171,7 +181,7 @@ This repository contains assignments and projects relevant to Bayesian Machine L
 
 Language types: Python
 
-This repository contains the assignments and projects related to a Deep Learning course. Topics included the architectures of Convolutional Neural Networks (CNNs), construction of CNNs from scratch and via Tensorflow Keras, the creation of recurrent neural networks, the application of transfer learning, and the detection of GAN-generated satellite images. Note: To facilitate efficiency, all assignments contained varying degrees of templated material provided by the professor. Also, all assignment were run in GoogleCollabPro to reduce runtime duration/RAM maxout.
+This repository contains the assignments and projects related to a Deep Learning course. Topics included the architectures of Convolutional Neural Networks (CNNs), construction of CNNs from scratch and via Tensorflow Keras, the creation of recurrent neural networks, the application of transfer learning, and the detection of GAN-generated satellite images. Also, all assignment were run in GoogleCollabPro to reduce runtime duration/RAM maxout.
 
 ![image](https://github.com/nkeeley/DS6050---Deep-Learning/blob/main/FiltersImage.jpg)
 
@@ -181,7 +191,7 @@ This repository contains the assignments and projects related to a Deep Learning
 
 Language types: Python
 
-This repository contains assignments and projects associated with exploratory text analytics. Topics include manual text cleansing/OHCO chunking using regex, parts of speech annotation, term-frequency analysis, n-gram analysis, agglomerative clustering, principal components analysis, topic modeling, and semantic algebra through word embeddings. For sentiment analysis-related content covered in class, please see https://github.com/nkeeley/Exploring-Company-Earnings-Calls. Note: All assignments were based off of templates provided by the professor, and adapted to meet the needs of assigned problem solutions and different corpora.
+This repository contains assignments and projects associated with exploratory text analytics. Topics include manual text cleansing/OHCO chunking using regex, parts of speech annotation, term-frequency analysis, n-gram analysis, agglomerative clustering, principal components analysis, topic modeling, and semantic algebra through word embeddings. For sentiment analysis-related content covered in class, please see https://github.com/nkeeley/Exploring-Company-Earnings-Calls.
 
 ![sample](https://github.com/nkeeley/DS5001---Exploratory-Text-Analytics/blob/main/TopicModel.jpg)
 
