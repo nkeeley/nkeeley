@@ -59,15 +59,17 @@ A leading international consumer packaged goods (CPG) company asked our team (ca
 
 ## Academic
 
-### Project: "Cash, Credibility, and Conversion: The Influence of Synthetic Media on Investment Behavior" 现金、信念、和转化：合成媒体对投资行为的影响 
+### Project: "Cash, Credibility, and Conversion: The Influence of Synthetic Media on Investment Behavior" 
+现金、信念、和转化：合成媒体对投资行为的影响 
 
 Repository: In progress
 
 Language types: Python
 
-For the capstone project of the Schwarzman Scholars program, I empirically evaluated the influence of synthetic text on investment behavior (inspired by deepfakes and other forms of synthetic disinformation). I created two different survey versions in Chinese, embedding each with either a real earnings call transcript sample or a ChatGPT-generated one. Respondents were randomly exposed to either survey version and asked a series of questions. Data was compiled from the surveys, aggregated, and then analyzed via Welch t-tests. Semantic analysis (using a Chinese parser!) was conducted on qualitative responses. Results indicated that AI-generated financial text can significantly alter investor behavior, and even introduce more extreme "conversions" in opionion than their genuine counterparts. Full paper (Arxiv) here: https://arxiv.org/abs/2306.05033.
+For the capstone project of the Schwarzman Scholars program, I empirically evaluated the influence of synthetic text on investment behavior (inspired by deepfakes and other forms of synthetic disinformation). I created two different survey versions in Chinese, embedding each with either a real earnings call transcript sample or a ChatGPT-generated one. Respondents were randomly exposed to either survey version and asked a series of questions. Data was compiled from the surveys, aggregated, and then analyzed via Welch t-tests. Semantic analysis (using a Chinese parser!) was conducted on qualitative responses. Results indicated that AI-generated financial text can significantly alter investor behavior, and even introduce more extreme "conversions" in opionion than their genuine counterparts. 
+Full paper (Arxiv) here: https://arxiv.org/abs/2306.05033.
 
-
+![image](https://github.com/nkeeley/schwarzman_capstone/blob/main/thesis_pic.jpg)
 
 ### Project: Exploring Company Earnings Calls Before & After COVID-19 (Exploratory Text Analytics)
 
