@@ -1,6 +1,6 @@
 ## Description
 
-This portfolio provides a snapshot of data science-related work I've done personally, professionally, and academically. 
+This portfolio provides a snapshot of data science-related work I've done professionally, personally, and academically. 
 
 Last updated: 22 AUG 2023. 
 
@@ -9,6 +9,18 @@ Language types: SQL, R, Python, HTML.
 ![](https://komarev.com/ghpvc/?username=nkeeley&color=blue)
 
 ## Table of Contents
+
+### Professional
+
+[Project: Shopper Marketing ROI Optimization (MSDS Capstone Project)](https://github.com/nkeeley/nkeeley/edit/main/README.md#capstone-project-measuring-shopper-marketing-effectiveness)
+
+### Personal
+
+
+
+### Academic
+
+[Project: Exploring Company Earnings Calls Before & After COVID-19 (Exploratory Text Analytics)](https://github.com/nkeeley/nkeeley/edit/main/README.md#text-analytics-project-exploring-company-earnings-calls-before--after-covid-19)
 
 [Programming and Systems for Data Analysis (CS5010)](https://github.com/nkeeley/nkeeley/edit/main/README.md#cs5010---programming-and-systems-for-data-analysis)
 
@@ -22,11 +34,7 @@ Language types: SQL, R, Python, HTML.
 
 [Data Science in Business (DSB)](https://github.com/nkeeley/nkeeley/edit/main/README.md#dsb---data-science-in-business)
 
-[Project: Exploring Company Earnings Calls Before & After COVID-19 (Exploratory Text Analytics)](https://github.com/nkeeley/nkeeley/edit/main/README.md#text-analytics-project-exploring-company-earnings-calls-before--after-covid-19)
-
 [Statistical Learning / Data Mining (DS6030)](https://github.com/nkeeley/nkeeley/edit/main/README.md#ds6030---statistical-learning)
-
-[Project: Shopper Marketing ROI Optimization (MSDS Capstone Project)](https://github.com/nkeeley/nkeeley/edit/main/README.md#capstone-project-measuring-shopper-marketing-effectiveness)
 
 [Bayesian Machine Learning (DS6014)](https://github.com/nkeeley/nkeeley/edit/main/README.md#ds6014---bayesian-machine-learning)
 
@@ -34,6 +42,31 @@ Language types: SQL, R, Python, HTML.
 
 [Exploratory Text Analytics (DS5001)](https://github.com/nkeeley/nkeeley/edit/main/README.md#ds5001---exploratory-text-analytics)
 
+## Professional
+
+### Project: Shopper Marketing ROI Optimization (MSDS Capstone)
+
+[Repository](https://github.com/nkeeley/capstone-project-measuring-shopper-marketing-tactic-effectiveness/blob/main/README.md)
+
+Language types: SQL, Python
+
+For the capstone project of our Master in Data Science program, my project team was assigned to help a leading international consumer packaged goods (CPG) firm with assessing the effectiveness of their shopper marketing tactics using "big data" (~30M rows) that they provided. Based on pre-existing literature on retail sales forecasting, I decided to develop a random forest model using walk-forward validation. My model ultimately outperformed our baseline/other competing models, and was accepted by our client for further development. Due to the proprietary nature of the data involved, this project notebook is selectively available by request - please message me at https://www.linkedin.com/in/nicholas-g-keeley/. 
+
+![image](https://github.com/nkeeley/capstone-project-measuring-shopper-marketing-tactic-effectiveness/blob/main/CapstoneScreenshot2.jpg)
+
+## Personal
+
+## Academic
+
+### Project: Exploring Company Earnings Calls Before & After COVID-19 (Exploratory Text Analytics)
+
+[Repository](https://github.com/nkeeley/Exploring-Company-Earnings-Calls)
+
+Language types: Python
+
+For the capstone project of my Exploratory Text Analytics class, I chose to investigate how company earnings call language changed before/after the onset of the COVID-19 pandemic. I produced my own raw text dataset by scraping over 35K earnings calls publicly available on the Motley Fool's website, ultimately refining the corpus into a digital analytical edition and conducting text analytics.
+
+![image](https://github.com/nkeeley/Exploring-Company-Earnings-Calls/blob/main/ClusteringTickers.jpg)
 
 ### Programming and Systems for Data Analysis (CS5010)
 
@@ -111,16 +144,6 @@ This repository contains several assignments and projects related to predictive 
 
 ![image](https://github.com/nkeeley/DSB---Data-Science-in-Business/blob/main/TreeImage.jpg)
 
-### Project: Exploring Company Earnings Calls Before & After COVID-19 (Exploratory Text Analytics)
-
-[Repository](https://github.com/nkeeley/Exploring-Company-Earnings-Calls)
-
-Language types: Python
-
-For the capstone project of my Exploratory Text Analytics class, I chose to investigate how company earnings call language changed before/after the onset of the COVID-19 pandemic. I produced my own raw text dataset by scraping over 35K earnings calls publicly available on the Motley Fool's website, ultimately refining the corpus into a digital analytical edition and conducting text analytics.
-
-![image](https://github.com/nkeeley/Exploring-Company-Earnings-Calls/blob/main/ClusteringTickers.jpg)
-
 ###  Statistical Learning (DS6030)
 
 [Repository](https://github.com/nkeeley/DS6030-Statistical-Learning/blob/main/README.md)
@@ -130,16 +153,6 @@ Language types: R
 This repository contains exams and assignments primarily involving hyperparameter tuning of statistical models. Additional topics include KNN models, model-based clustering/Kernel Density Estimation, association analysis, and validation techniques (e.g. OOB, k-fold, etc.). Note: each .Rmd file has an associated HTML file with a similar name.
 
 ![image](https://github.com/nkeeley/DS6030-Statistical-Learning/blob/main/TreeTuning.jpg)
-
-### Project: Shopper Marketing ROI Optimization (MSDS Capstone)
-
-[Repository](https://github.com/nkeeley/capstone-project-measuring-shopper-marketing-tactic-effectiveness/blob/main/README.md)
-
-Language types: SQL, Python
-
-For the capstone project of our Master in Data Science program, my project team was assigned to help a leading international consumer packaged goods (CPG) firm with assessing the effectiveness of their shopper marketing tactics using "big data" (~30M rows) that they provided. Based on pre-existing literature on retail sales forecasting, I decided to develop a random forest model using walk-forward validation. My model ultimately outperformed our baseline/other competing models, and was accepted by our client for further development. Due to the proprietary nature of the data involved, this project notebook is selectively available by request - please message me at https://www.linkedin.com/in/nicholas-g-keeley/. 
-
-![image](https://github.com/nkeeley/capstone-project-measuring-shopper-marketing-tactic-effectiveness/blob/main/CapstoneScreenshot2.jpg)
 
 ### Bayesian Machine Learning (DS6014)
 
