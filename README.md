@@ -10,7 +10,7 @@ Language types: SQL, R, Python, HTML
 
 [CS5010 - Programming and Systems for Data Analysis](https://github.com/nkeeley/nkeeley/edit/main/README.md#cs5010---programming-and-systems-for-data-analysis)
 
-[CS5012 - Foundations of Computer Science](https://github.com/nkeeley/nkeeley/edit/main/README.md#cs5012---foundations-of-computer-science)
+[Foundations of Computer Science](https://github.com/nkeeley/nkeeley/edit/main/README.md#cs5012---foundations-of-computer-science)
 
 [STAT6012 - Linear Models for Data Science](https://github.com/nkeeley/nkeeley/edit/main/README.md#stat6012---linear-models-for-data-science)
 
