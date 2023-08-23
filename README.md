@@ -60,7 +60,7 @@ A leading international consumer packaged goods (CPG) company asked our team (ca
 ## Academic
 
 ### Project: "Cash, Credibility, and Conversion: The Influence of Synthetic Media on Investment Behavior" 
-现金、信念、和转化：合成媒体对投资行为的影响 
+### 现金、信念、和转化：合成媒体对投资行为的影响 
 
 Repository: In progress
 
