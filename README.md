@@ -8,6 +8,7 @@ Language types: SQL, R, Python, HTML.
 
 ![](https://komarev.com/ghpvc/?username=nkeeley&color=blue)
 
+## ----------------------
 ## Table of Contents
 
 ### Professional
