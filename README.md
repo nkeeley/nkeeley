@@ -2,7 +2,9 @@
 
 This portfolio provides a snapshot of data science-related work I've done personally, professionally, and academically. 
 
-Last updated: 22 AUG 2023. Language types: SQL, R, Python, HTML. 
+Last updated: 22 AUG 2023. 
+
+Language types: SQL, R, Python, HTML. 
 
 ![](https://komarev.com/ghpvc/?username=nkeeley&color=blue)
 
