@@ -20,7 +20,7 @@ Language types: SQL, R, Python, HTML.
 
 ### Academic
 
-[Project: "Cash, Credibility, and Conversion: The Influence of Synthetic Media on Investment Behavior" 现金、信念、和转化：合成媒体对投资行为的影响]
+[Project: "Cash, Credibility, and Conversion: The Influence of Synthetic Media on Investment Behavior" 现金、信念、和转化：合成媒体对投资行为的影响](https://github.com/nkeeley/nkeeley/blob/main/README.md#project-cash-credibility-and-conversion-the-influence-of-synthetic-media-on-investment-behavior)
 
 [Project: Exploring Company Earnings Calls Before & After COVID-19 (Exploratory Text Analytics)](https://github.com/nkeeley/nkeeley/edit/main/README.md#text-analytics-project-exploring-company-earnings-calls-before--after-covid-19)
 
@@ -58,6 +58,26 @@ A leading international consumer packaged goods (CPG) company asked our team (ca
 ![image](https://github.com/nkeeley/capstone-project-measuring-shopper-marketing-tactic-effectiveness/blob/main/CapstoneScreenshot2.jpg)
 
 ## Personal
+
+### Serapis
+
+Repository: In progres
+
+Language types: Python, SQL, HTML
+
+Teamed up with a group of friends to create a team optimization dashboard/product for Pokemon Showdown users. While development details are proprietary, I served as the lead backend developer for this project. Tasks accomplished include the following:
+
+* Scraping opensource text, converting into cleaned data, and producing interactive visualizations
+* Designing database schema, setting up cloud database, and integrating with both frontend/backend
+* Building HTML pages with embedded payment services
+* Troubleshooting hosting service and database updates
+* Utilizing Flask and Selenium
+
+Website (in progress) here: https://www.serapis.dev/
+08/06/2023 demo: https://www.youtube.com/watch?v=jh-vbAVWUtA
+
+
+
 
 ## Academic
 
