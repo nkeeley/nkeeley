@@ -8,32 +8,32 @@ Language types: SQL, R, Python, HTML
 
 ### Table of Contents
 
-[CS5010 - Programming and Systems for Data Analysis](https://github.com/nkeeley/nkeeley/edit/main/README.md#cs5010---programming-and-systems-for-data-analysis)
+[Programming and Systems for Data Analysis (CS5010)](https://github.com/nkeeley/nkeeley/edit/main/README.md#cs5010---programming-and-systems-for-data-analysis)
 
-[Foundations of Computer Science](https://github.com/nkeeley/nkeeley/edit/main/README.md#cs5012---foundations-of-computer-science)
+[Foundations of Computer Science (CS5012)](https://github.com/nkeeley/nkeeley/edit/main/README.md#cs5012---foundations-of-computer-science)
 
-[STAT6012 - Linear Models for Data Science](https://github.com/nkeeley/nkeeley/edit/main/README.md#stat6012---linear-models-for-data-science)
+[Linear Models for Data Science (STAT6012)](https://github.com/nkeeley/nkeeley/edit/main/README.md#stat6012---linear-models-for-data-science)
 
-[DS6001 - Practice and Application of Data Science](https://github.com/nkeeley/nkeeley/edit/main/README.md#ds6001---practice-and-application-of-data-science)
+[Practice and Application of Data Science (DS6001)](https://github.com/nkeeley/nkeeley/edit/main/README.md#ds6001---practice-and-application-of-data-science)
 
-[DVA - Data Visualization and Analytics](https://github.com/nkeeley/nkeeley/edit/main/README.md#dva---data-visualization-and-analytics)
+[Data Visualization and Analytics (DVA)](https://github.com/nkeeley/nkeeley/edit/main/README.md#dva---data-visualization-and-analytics)
 
-[DSB - Data Science in Business](https://github.com/nkeeley/nkeeley/edit/main/README.md#dsb---data-science-in-business)
+[Data Science in Business (DSB)](https://github.com/nkeeley/nkeeley/edit/main/README.md#dsb---data-science-in-business)
 
-[Text Analytics Project: Exploring Company Earnings Calls Before & After COVID-19](https://github.com/nkeeley/nkeeley/edit/main/README.md#text-analytics-project-exploring-company-earnings-calls-before--after-covid-19)
+[Project: Exploring Company Earnings Calls Before & After COVID-19 (Exploratory Text Analytics)](https://github.com/nkeeley/nkeeley/edit/main/README.md#text-analytics-project-exploring-company-earnings-calls-before--after-covid-19)
 
-[DS6030 - Statistical Learning](https://github.com/nkeeley/nkeeley/edit/main/README.md#ds6030---statistical-learning)
+[Statistical Learning / Data Mining (DS6030)](https://github.com/nkeeley/nkeeley/edit/main/README.md#ds6030---statistical-learning)
 
-[Capstone Project: Measuring Shopper Marketing Effectiveness](https://github.com/nkeeley/nkeeley/edit/main/README.md#capstone-project-measuring-shopper-marketing-effectiveness)
+[Project: Shopper Marketing Optimization (MSDS Capstone Project)](https://github.com/nkeeley/nkeeley/edit/main/README.md#capstone-project-measuring-shopper-marketing-effectiveness)
 
-[DS6014 - Bayesian Machine Learning](https://github.com/nkeeley/nkeeley/edit/main/README.md#ds6014---bayesian-machine-learning)
+[Bayesian Machine Learning (DS6014)](https://github.com/nkeeley/nkeeley/edit/main/README.md#ds6014---bayesian-machine-learning)
 
-[DS6050 - Deep Learning](https://github.com/nkeeley/nkeeley/edit/main/README.md#ds6050---deep-learning)
+[Deep Learning (DS6050)](https://github.com/nkeeley/nkeeley/edit/main/README.md#ds6050---deep-learning)
 
-[DS5001 - Exploratory Text Analytics](https://github.com/nkeeley/nkeeley/edit/main/README.md#ds5001---exploratory-text-analytics)
+[Exploratory Text Analytics (DS5001)](https://github.com/nkeeley/nkeeley/edit/main/README.md#ds5001---exploratory-text-analytics)
 
 
-### CS5010 - Programming and Systems for Data Analysis
+### Programming and Systems for Data Analysis (CS5010)
 
 [Repository](https://github.com/nkeeley/CS5010-Programming_and_Systems_for_Data_Analysis)
 
