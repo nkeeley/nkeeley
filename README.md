@@ -12,11 +12,11 @@ Language types: SQL, R, Python, HTML.
 
 ### Professional
 
-[QuantumBlack x Life Sciences Hackathon](https://github.com/nkeeley/nkeeley/blob/main/README.md#quantumblack-x-life-sciences-hackathon-1)
-
 [Project: Shopper Marketing ROI Optimization (MSDS Capstone Project)](https://github.com/nkeeley/nkeeley/edit/main/README.md#capstone-project-measuring-shopper-marketing-effectiveness)
 
 ### Personal
+
+[QuantumBlack x Life Sciences Hackathon](https://github.com/nkeeley/nkeeley/blob/main/README.md#quantumblack-x-life-sciences-hackathon-1)
 
 [Project: Serapis](https://github.com/nkeeley/nkeeley/blob/main/README.md#serapis)
 
@@ -49,6 +49,26 @@ Language types: SQL, R, Python, HTML.
 
 ## Professional
 
+### Project: Targeted Marketing Campaign for Urologists, Pulmunologists, and Special Infectious Disease Providers
+
+[Repository](https://github.com/nkeeley/provider-marketing/tree/main)
+
+Language types: Python
+
+Webscraped the names of 93K urologists, pulmunologists, and special infectious disease providers across the United States from doctor.webmd.com. Conducted fuzzy matching in order to match list of unknown emails to provider names. In order to preserve confidentiality, provider email list not included, but scraping script and fuzzy matching algorithm in repository script.
+
+### Project: Shopper Marketing ROI Optimization (MSDS Capstone)
+
+[Repository](https://github.com/nkeeley/capstone-project-measuring-shopper-marketing-tactic-effectiveness/blob/main/README.md)
+
+Language types: SQL, Python
+
+A leading international consumer packaged goods (CPG) company asked our team (capstone project) to help with assessing the ROI of their shopper marketing strategies. They provided us access to their database, which totaled over 30M customer transactions and product marketing efforts. Our team extracted, cleaned, and aggregated this data prior to analysis. Based on pre-existing literature on retail sales forecasting, I chose to build a random forest model using walk-forward validation. My model ultimately outperformed our baseline/other competing models, and was accepted by our client for further development. We were able to use this model to determine effective vs. ineffective marketing strategies. Due to the proprietary nature of the data involved, this project notebook is selectively available by request - please message me at https://www.linkedin.com/in/nicholas-g-keeley/. 
+
+![image](https://github.com/nkeeley/capstone-project-measuring-shopper-marketing-tactic-effectiveness/blob/main/CapstoneScreenshot2.jpg)
+
+## Personal
+
 ### QuantumBlack x Life Sciences Hackathon
 
 [Repository: None - isolated Jupyter Labs instance due to actual patient data](https://github.com/nkeeley/quantumblack-hackathon/blob/main/README.md)
@@ -62,18 +82,6 @@ Led a team of 4 in developing a predictive model for detecting rare disease (PNH
 * Built model pipeline for training RandomForest and XGBoost classifiers using walk-forward validation
 * Assisted with feature selection and hyperparameter tuning
 
-
-### Project: Shopper Marketing ROI Optimization (MSDS Capstone)
-
-[Repository](https://github.com/nkeeley/capstone-project-measuring-shopper-marketing-tactic-effectiveness/blob/main/README.md)
-
-Language types: SQL, Python
-
-A leading international consumer packaged goods (CPG) company asked our team (capstone project) to help with assessing the ROI of their shopper marketing strategies. They provided us access to their database, which totaled over 30M customer transactions and product marketing efforts. Our team extracted, cleaned, and aggregated this data prior to analysis. Based on pre-existing literature on retail sales forecasting, I chose to build a random forest model using walk-forward validation. My model ultimately outperformed our baseline/other competing models, and was accepted by our client for further development. We were able to use this model to determine effective vs. ineffective marketing strategies. Due to the proprietary nature of the data involved, this project notebook is selectively available by request - please message me at https://www.linkedin.com/in/nicholas-g-keeley/. 
-
-![image](https://github.com/nkeeley/capstone-project-measuring-shopper-marketing-tactic-effectiveness/blob/main/CapstoneScreenshot2.jpg)
-
-## Personal
 
 ### Project: Serapis
 
