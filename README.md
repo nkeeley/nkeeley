@@ -2,7 +2,7 @@
 
 This portfolio provides a snapshot of data science-related work I've done professionally, personally, and academically. 
 
-Last updated: 22 AUG 2023. 
+Last updated: 11 FEB 2024. 
 
 Language types: SQL, R, Python, HTML. 
 
@@ -11,6 +11,8 @@ Language types: SQL, R, Python, HTML.
 ## Table of Contents
 
 ### Professional
+
+### QuantumBlack x Life Sciences Hackathon
 
 [Project: Shopper Marketing ROI Optimization (MSDS Capstone Project)](https://github.com/nkeeley/nkeeley/edit/main/README.md#capstone-project-measuring-shopper-marketing-effectiveness)
 
@@ -46,6 +48,20 @@ Language types: SQL, R, Python, HTML.
 ## 
 
 ## Professional
+
+### QuantumBlack x Life Sciences Hackathon
+
+Repository: None - isolated Jupyter Labs instance due to actual patient data
+
+Language types: Python, SQL
+
+Led a team of 4 in developing a predictive model for detecting rare disease (PNH) diagnosis on a database of 1M patients between 2017-2022. Included the following tasks:
+
+* Translated medical research into 600+ dataframe features; used Regex to translate medical diagnosis and procedures codes into binary flags and frequency counts
+* Used PySpark to stitch together multiple databases (procedures, diagnoses, patients, medical providers, pharmacy data, etc.) into usable timeseries dataframe
+* Built model pipeline for training RandomForest and XGBoost classifiers using walk-forward validation
+* Assisted with feature selection and hyperparameter tuning
+
 
 ### Project: Shopper Marketing ROI Optimization (MSDS Capstone)
 
