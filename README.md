@@ -12,7 +12,7 @@ Language types: SQL, R, Python, HTML.
 
 ### Professional
 
-### QuantumBlack x Life Sciences Hackathon
+[QuantumBlack x Life Sciences Hackathon](https://github.com/nkeeley/nkeeley/blob/main/README.md#quantumblack-x-life-sciences-hackathon-1)
 
 [Project: Shopper Marketing ROI Optimization (MSDS Capstone Project)](https://github.com/nkeeley/nkeeley/edit/main/README.md#capstone-project-measuring-shopper-marketing-effectiveness)
 
