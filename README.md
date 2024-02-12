@@ -12,6 +12,8 @@ Language types: SQL, R, Python, HTML.
 
 ### Professional
 
+[Project: Targeted Marketing Campaign for Urologists, Pulmunologists, and Special Infectious Disease Providers] (https://github.com/nkeeley/nkeeley/blob/main/README.md#project-targeted-marketing-campaign-for-urologists-pulmunologists-and-special-infectious-disease-providers)
+
 [Project: Shopper Marketing ROI Optimization (MSDS Capstone Project)](https://github.com/nkeeley/nkeeley/edit/main/README.md#capstone-project-measuring-shopper-marketing-effectiveness)
 
 ### Personal
