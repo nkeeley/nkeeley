@@ -51,7 +51,7 @@ Language types: SQL, R, Python, HTML.
 
 ### QuantumBlack x Life Sciences Hackathon
 
-Repository: None - isolated Jupyter Labs instance due to actual patient data
+[Repository: None - isolated Jupyter Labs instance due to actual patient data](https://github.com/nkeeley/quantumblack-hackathon/blob/main/README.md)
 
 Language types: Python, SQL
 
