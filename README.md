@@ -22,6 +22,8 @@ Language types: SQL, R, Python, HTML.
 
 [Project: Serapis](https://github.com/nkeeley/nkeeley/blob/main/README.md#serapis)
 
+[Project: Agentic RAG Experiement]
+
 ### Academic
 
 [Project: "Cash, Credibility, and Conversion: The Influence of Synthetic Media on Investment Behavior" 现金、信念、和转化：合成媒体对投资行为的影响](https://github.com/nkeeley/nkeeley/blob/main/README.md#project-cash-credibility-and-conversion-the-influence-of-synthetic-media-on-investment-behavior)
@@ -70,6 +72,14 @@ A leading international consumer packaged goods (CPG) company asked our team (ca
 ![image](https://github.com/nkeeley/capstone-project-measuring-shopper-marketing-tactic-effectiveness/blob/main/CapstoneScreenshot2.jpg)
 
 ## Personal
+
+### Agentic RAG Experimentation
+
+[Respository](https://github.com/nkeeley/agent-experimentation)
+
+Language types: Python (via Jupyter notebook)
+
+Ran online tutorial that leverages HF agentic framework to compare outputs of standard RAG against an "agentic RAG" (adjusts system prompts to optimize results). Tutorial can be found at this link: https://medium.com/the-ai-forum/build-an-agentic-rag-using-huggingface-transformer-agent-ec741f09ddcc. 
 
 ### QuantumBlack x Life Sciences Hackathon
 
