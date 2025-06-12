@@ -18,11 +18,11 @@ Language types: SQL, R, Python, HTML.
 
 ### Personal
 
+[Project: Agentic RAG Experiement](https://github.com/nkeeley/nkeeley/blob/main/README.md#agentic-rag-experimentation)
+
 [QuantumBlack x Life Sciences Hackathon](https://github.com/nkeeley/nkeeley/blob/main/README.md#quantumblack-x-life-sciences-hackathon-1)
 
 [Project: Serapis](https://github.com/nkeeley/nkeeley/blob/main/README.md#serapis)
-
-[Project: Agentic RAG Experiement]
 
 ### Academic
 
