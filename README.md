@@ -12,7 +12,7 @@ Language types: Python, R, SQL, HTML, JavaScript
 
 ### Professional
 
-
+[Project: Data Analytics for Churn Prevention](https://github.com/nkeeley/nkeeley/tree/main#project-data-analytics-for-churn-prevention)
 
 [Project: Webscraping for Medical Marketing Campaign](https://github.com/nkeeley/nkeeley/blob/main/README.md#project-targeted-marketing-campaign-for-urologists-pulmunologists-and-special-infectious-disease-providers)
 
