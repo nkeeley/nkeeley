@@ -63,6 +63,8 @@ Language types: Python
 
 Cleaned, transformed, and performed analysis (RFM K-means clustering) to detect churn propensity on an e-commerce dataset. Wrapped analysis into a FastAPI backend (hosted on Railway), and a React frontend (hosted on Vercel).
 
+[image](https://github.com/nkeeley/gifts_exercise/blob/main/dashboard_screenshot.png)
+
 ### Project: Webscraping for Medical Marketing Campaign
 
 [Repository](https://github.com/nkeeley/provider-marketing/tree/main)
