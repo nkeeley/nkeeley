@@ -59,9 +59,9 @@ Language types: Python, R, SQL, HTML, JavaScript
 
 [Repository](https://github.com/nkeeley/gifts_exercise)
 
-Language types: Python
+Language types: Python, JavaScript
 
-Cleaned, transformed, and performed analysis (RFM K-means clustering) to detect churn propensity on an e-commerce dataset. Wrapped analysis into a FastAPI backend (hosted on Railway), and a React frontend (hosted on Vercel).
+Cleaned, transformed, and performed analysis (RFM K-means clustering) on an e-commerce transaction dataset to detect churn propensity. Wrapped pipeline into a FastAPI backend (hosted on Railway), and a React frontend (hosted on Vercel).
 
 ![image](https://github.com/nkeeley/gifts_exercise/blob/main/dashboard_screenshot.png)
 
