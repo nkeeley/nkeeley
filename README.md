@@ -2,15 +2,17 @@
 
 This portfolio provides a snapshot of data science-related work I've done professionally, personally, and academically. 
 
-Last updated: 11 FEB 2024. 
+Last updated: 20 JAN 2026. 
 
-Language types: SQL, R, Python, HTML. 
+Language types: Python, R, SQL, HTML, JavaScript
 
 ![](https://komarev.com/ghpvc/?username=nkeeley&color=blue)
 
 ## Table of Contents
 
 ### Professional
+
+
 
 [Project: Webscraping for Medical Marketing Campaign](https://github.com/nkeeley/nkeeley/blob/main/README.md#project-targeted-marketing-campaign-for-urologists-pulmunologists-and-special-infectious-disease-providers)
 
@@ -52,6 +54,14 @@ Language types: SQL, R, Python, HTML.
 ## 
 
 ## Professional
+
+### Project: Data Analytics for Churn Prevention
+
+[Repository](https://github.com/nkeeley/gifts_exercise)
+
+Language types: Python
+
+Cleaned, transformed, and performed analysis (RFM K-means clustering) to detect churn propensity on an e-commerce dataset. Wrapped analysis into a FastAPI backend (hosted on Railway), and a React frontend (hosted on Vercel).
 
 ### Project: Webscraping for Medical Marketing Campaign
 
