@@ -1,10 +1,18 @@
 ## Description
 
-This portfolio provides a snapshot of data science-related work I've done professionally, personally, and academically. 
+This portfolio provides a snapshot of development work I've done professionally, personally, and academically. Most development work centers around GenAI & ML workflows.
 
-Last updated: 20 JAN 2026. 
+- Languages: Python, R, SQL, HTML, JavaScript
 
-Language types: Python, R, SQL, HTML, JavaScript
+- Frontend & Backend Frameworks: React, FastAPI
+
+- AI/ML Frameworks: LangChain/LangGraph, HuggingFace Transformers
+
+- LLM Platforms: Claude, OpenAI, Llama
+
+- Infrastructure & Hosting: Docker, Ollama, Vercel, Railway
+
+Last updated: 13 MAR 2026. 
 
 ![](https://komarev.com/ghpvc/?username=nkeeley&color=blue)
 
