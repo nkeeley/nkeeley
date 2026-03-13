@@ -22,6 +22,8 @@ Last updated: 13 MAR 2026.
 
 ### Professional
 
+[FDE Interview: Bank Infrastructure](https://github.com/nkeeley/nkeeley/edit/main/README.md#fde-interview-bank-infrastructure)
+
 [FDE Interview: Churn Prevention Dashboard](https://github.com/nkeeley/nkeeley/tree/main#project-data-analytics-for-churn-prevention)
 
 [Contract: Webscraping for Medical Marketing Campaign](https://github.com/nkeeley/nkeeley/blob/main/README.md#project-targeted-marketing-campaign-for-urologists-pulmunologists-and-special-infectious-disease-providers)
