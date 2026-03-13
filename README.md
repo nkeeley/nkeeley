@@ -116,14 +116,10 @@ Language types: Python
 Agent that interacts with user via email to create and deliver a personalized weekend plan. Includes a cronjob scraper for passive event collection, event enrichment (e.g. geocodes for distance), interactive messages via email (using natural language), and ranking algorithm.
 
 <p float="left">
-  <img src="https://github.com/nkeeley/nkeeley/blob/main/weekend_planner_1.jpg" width="150" />
-  <img src="https://github.com/nkeeley/nkeeley/blob/main/weekend_planner_2.jpg" width="150" />
-  <img src="https://github.com/nkeeley/nkeeley/blob/main/weekend_planner_3.jpg" width="150" />
+  <img src="https://github.com/nkeeley/nkeeley/blob/main/weekend_planner_1.jpg" width="200" />
+  <img src="https://github.com/nkeeley/nkeeley/blob/main/weekend_planner_2.jpg" width="200" />
+  <img src="https://github.com/nkeeley/nkeeley/blob/main/weekend_planner_3.jpg" width="200" />
 </p>
-
-![](https://github.com/nkeeley/nkeeley/blob/main/weekend_planner_1.jpg)
-![](https://github.com/nkeeley/nkeeley/blob/main/weekend_planner_2.jpg)
-![](https://github.com/nkeeley/nkeeley/blob/main/weekend_planner_2.jpg)
 
 ### Agentic RAG Experimentation
 
