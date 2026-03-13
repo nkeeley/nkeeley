@@ -12,7 +12,7 @@ This portfolio provides a snapshot of development work I've done professionally*
 
 - Infrastructure & Hosting: Docker, Ollama, Vercel, Railway
 
-*Mainly contract work or interview takehomes. Work done on the job (e.g. QuantumBlack) is not included in this portfolio for confidentiality reasons.
+*Only includes contract work or takehome interview deliverables. Work done on in fulltime roles (e.g. while data scientist at QuantumBlack) is not included in this portfolio for confidentiality reasons.
 
 Last updated: 13 MAR 2026. 
 
