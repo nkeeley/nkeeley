@@ -22,13 +22,13 @@ Last updated: 13 MAR 2026.
 
 ### Professional
 
-[FDE Interview: Bank Infrastructure](https://github.com/nkeeley/nkeeley/edit/main/README.md#fde-interview-bank-infrastructure)
+[FDE Interview: Bank Infrastructure](https://github.com/nkeeley/nkeeley/blob/main/README.md#fde-interview-bank-infrastructure)
 
-[FDE Interview: Churn Prevention Dashboard](https://github.com/nkeeley/nkeeley/tree/main#project-data-analytics-for-churn-prevention)
+[FDE Interview: Churn Prevention Dashboard](https://github.com/nkeeley/nkeeley/blob/README.md#project-data-analytics-for-churn-prevention)
 
 [Contract: Webscraping for Medical Marketing Campaign](https://github.com/nkeeley/nkeeley/blob/main/README.md#project-targeted-marketing-campaign-for-urologists-pulmunologists-and-special-infectious-disease-providers)
 
-[Contract: Shopper Marketing ROI Optimization (MSDS Capstone)](https://github.com/nkeeley/nkeeley/edit/main/README.md#capstone-project-measuring-shopper-marketing-effectiveness)
+[Contract: Shopper Marketing ROI Optimization (MSDS Capstone)](https://github.com/nkeeley/nkeeley/blob/main/README.md#capstone-project-measuring-shopper-marketing-effectiveness)
 
 ### Personal
 
@@ -42,27 +42,27 @@ Last updated: 13 MAR 2026.
 
 [Project: "Cash, Credibility, and Conversion: The Influence of Synthetic Media on Investment Behavior" 现金、信念、和转化：合成媒体对投资行为的影响](https://github.com/nkeeley/nkeeley/blob/main/README.md#project-cash-credibility-and-conversion-the-influence-of-synthetic-media-on-investment-behavior)
 
-[Project: Exploring Company Earnings Calls Before & After COVID-19 (Exploratory Text Analytics)](https://github.com/nkeeley/nkeeley/edit/main/README.md#text-analytics-project-exploring-company-earnings-calls-before--after-covid-19)
+[Project: Exploring Company Earnings Calls Before & After COVID-19 (Exploratory Text Analytics)](https://github.com/nkeeley/nkeeley/blob/main/README.md#text-analytics-project-exploring-company-earnings-calls-before--after-covid-19)
 
-[Programming and Systems for Data Analysis (CS5010)](https://github.com/nkeeley/nkeeley/edit/main/README.md#cs5010---programming-and-systems-for-data-analysis)
+[Programming and Systems for Data Analysis (CS5010)](https://github.com/nkeeley/nkeeley/blob/main/README.md#cs5010---programming-and-systems-for-data-analysis)
 
-[Foundations of Computer Science (CS5012)](https://github.com/nkeeley/nkeeley/edit/main/README.md#cs5012---foundations-of-computer-science)
+[Foundations of Computer Science (CS5012)](https://github.com/nkeeley/nkeeley/blob/main/README.md#cs5012---foundations-of-computer-science)
 
-[Linear Models for Data Science (STAT6012)](https://github.com/nkeeley/nkeeley/edit/main/README.md#stat6012---linear-models-for-data-science)
+[Linear Models for Data Science (STAT6012)](https://github.com/nkeeley/nkeeley/blob/main/README.md#stat6012---linear-models-for-data-science)
 
-[Practice and Application of Data Science (DS6001)](https://github.com/nkeeley/nkeeley/edit/main/README.md#ds6001---practice-and-application-of-data-science)
+[Practice and Application of Data Science (DS6001)](https://github.com/nkeeley/nkeeley/blob/main/README.md#ds6001---practice-and-application-of-data-science)
 
-[Data Visualization and Analytics (DVA)](https://github.com/nkeeley/nkeeley/edit/main/README.md#dva---data-visualization-and-analytics)
+[Data Visualization and Analytics (DVA)](https://github.com/nkeeley/nkeeley/blob/main/README.md#dva---data-visualization-and-analytics)
 
-[Data Science in Business (DSB)](https://github.com/nkeeley/nkeeley/edit/main/README.md#dsb---data-science-in-business)
+[Data Science in Business (DSB)](https://github.com/nkeeley/nkeeley/blob/main/README.md#dsb---data-science-in-business)
 
-[Statistical Learning / Data Mining (DS6030)](https://github.com/nkeeley/nkeeley/edit/main/README.md#ds6030---statistical-learning)
+[Statistical Learning / Data Mining (DS6030)](https://github.com/nkeeley/nkeeley/blob/main/README.md#ds6030---statistical-learning)
 
-[Bayesian Machine Learning (DS6014)](https://github.com/nkeeley/nkeeley/edit/main/README.md#ds6014---bayesian-machine-learning)
+[Bayesian Machine Learning (DS6014)](https://github.com/nkeeley/nkeeley/blob/main/README.md#ds6014---bayesian-machine-learning)
 
-[Deep Learning (DS6050)](https://github.com/nkeeley/nkeeley/edit/main/README.md#ds6050---deep-learning)
+[Deep Learning (DS6050)](https://github.com/nkeeley/nkeeley/blob/main/README.md#ds6050---deep-learning)
 
-[Exploratory Text Analytics (DS5001)](https://github.com/nkeeley/nkeeley/edit/main/README.md#ds5001---exploratory-text-analytics)
+[Exploratory Text Analytics (DS5001)](https://github.com/nkeeley/nkeeley/blob/main/README.md#ds5001---exploratory-text-analytics)
 ## 
 
 ## Professional
