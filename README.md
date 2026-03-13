@@ -20,7 +20,7 @@ Last updated: 13 MAR 2026.
 
 ### Professional
 
-[Project: Data Analytics for Churn Prevention](https://github.com/nkeeley/nkeeley/tree/main#project-data-analytics-for-churn-prevention)
+[Project: Churn Prevention Dashboard](https://github.com/nkeeley/nkeeley/tree/main#project-data-analytics-for-churn-prevention)
 
 [Project: Webscraping for Medical Marketing Campaign](https://github.com/nkeeley/nkeeley/blob/main/README.md#project-targeted-marketing-campaign-for-urologists-pulmunologists-and-special-infectious-disease-providers)
 
@@ -63,7 +63,7 @@ Last updated: 13 MAR 2026.
 
 ## Professional
 
-### Project: Data Analytics for Churn Prevention
+### Project: Churn Prevention Dashboard
 
 [Repository](https://github.com/nkeeley/gifts_exercise)
 
