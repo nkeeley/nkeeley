@@ -65,7 +65,14 @@ Last updated: 13 MAR 2026.
 
 ## Professional
 
-### Project: Churn Prevention Dashboard
+### FDE Interview: Bank Infrastructure
+
+A full-stack banking application built as a take-home infrastructure exercise. FastAPI backend with SQLite, React frontend, JWT authentication, encrypted card storage, atomic transfers, and 123 automated tests.
+
+[Live demo link](bank-infra-exercise.vercel.app)
+[Repository](https://github.com/nkeeley/bank_infra_exercise)
+
+### FDE Interview: Churn Prevention Dashboard
 
 [Repository](https://github.com/nkeeley/gifts_exercise)
 
@@ -75,7 +82,7 @@ Cleaned, transformed, and performed analysis (RFM K-means clustering) on an e-co
 
 ![image](https://github.com/nkeeley/gifts_exercise/blob/main/dashboard_screenshot.png)
 
-### Project: Webscraping for Medical Marketing Campaign
+### Contract: Webscraping for Medical Marketing Campaign
 
 [Repository](https://github.com/nkeeley/provider-marketing/tree/main)
 
@@ -83,7 +90,7 @@ Language types: Python
 
 Webscraped the names of 93K urologists, pulmunologists, and special infectious disease providers across the United States from doctor.webmd.com. Conducted fuzzy matching in order to match list of unknown emails to provider names. In order to preserve confidentiality, provider email list not included, but scraping script and fuzzy matching algorithm in repository script.
 
-### Project: Shopper Marketing ROI Optimization (MSDS Capstone)
+### Contract: Shopper Marketing ROI Optimization (MSDS Capstone)
 
 [Repository](https://github.com/nkeeley/capstone-project-measuring-shopper-marketing-tactic-effectiveness/blob/main/README.md)
 
