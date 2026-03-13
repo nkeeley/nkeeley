@@ -1,6 +1,8 @@
 ## Description
 
-This portfolio provides a snapshot of development work I've done professionally, personally, and academically. Most development work centers around GenAI & ML workflows.
+This portfolio provides a snapshot of development work I've done professionally*, personally, and academically. Most development work centers around GenAI & ML workflows.
+
+*Mainly contract work or interview takehomes. Work done on the job (e.g. QuantumBlack) is not included in this portfolio for confidentiality reasons.
 
 - Languages: Python, R, SQL, HTML, JavaScript
 
