@@ -32,11 +32,11 @@ Last updated: 13 MAR 2026.
 
 ### Personal
 
-[Project: Agentic RAG Experiement](https://github.com/nkeeley/nkeeley/blob/main/README.md#agentic-rag-experimentation)
+[Agentic RAG Experiement](https://github.com/nkeeley/nkeeley/blob/main/README.md#agentic-rag-experimentation)
 
 [QuantumBlack x Life Sciences Hackathon](https://github.com/nkeeley/nkeeley/blob/main/README.md#quantumblack-x-life-sciences-hackathon-1)
 
-[Project: Serapis](https://github.com/nkeeley/nkeeley/blob/main/README.md#serapis)
+[Serapis](https://github.com/nkeeley/nkeeley/blob/main/README.md#serapis)
 
 ### Academic
 
@@ -107,9 +107,27 @@ A leading international consumer packaged goods (CPG) company asked our team (ca
 
 ## Personal
 
+### Weekend Planner Agent
+
+Repository: proprietary! To sign up for beta, please email n.g.keeley2@gmail.com.
+
+Language types: Python
+
+Agent that interacts with user via email to create and deliver a personalized weekend plan. Includes a cronjob scraper for passive event collection, event enrichment (e.g. geocodes for distance), interactive messages via email (using natural language), and ranking algorithm.
+
+<p float="left">
+  <img src="https://github.com/nkeeley/nkeeley/blob/main/weekend_planner_1.jpg" width="150" />
+  <img src="https://github.com/nkeeley/nkeeley/blob/main/weekend_planner_2.jpg" width="150" />
+  <img src="https://github.com/nkeeley/nkeeley/blob/main/weekend_planner_3.jpg" width="150" />
+</p>
+
+![](https://github.com/nkeeley/nkeeley/blob/main/weekend_planner_1.jpg)
+![](https://github.com/nkeeley/nkeeley/blob/main/weekend_planner_2.jpg)
+![](https://github.com/nkeeley/nkeeley/blob/main/weekend_planner_2.jpg)
+
 ### Agentic RAG Experimentation
 
-[Respository](https://github.com/nkeeley/agent-experimentation)
+[Repository](https://github.com/nkeeley/agent-experimentation)
 
 Language types: Python (via Jupyter notebook)
 
@@ -129,7 +147,7 @@ Led a team of 4 in developing a predictive model for detecting rare disease (PNH
 * Assisted with feature selection and hyperparameter tuning
 
 
-### Project: Serapis
+### Serapis
 
 Repository: In progress
 
