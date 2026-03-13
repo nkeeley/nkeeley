@@ -32,7 +32,7 @@ Last updated: 13 MAR 2026.
 
 ### Personal
 
-[🆕 Weekend Planner Agent]()
+[🆕 Weekend Planner Agent](https://github.com/nkeeley/nkeeley/tree/main#weekend-planner-agent)
 
 [Agentic RAG Experiement](https://github.com/nkeeley/nkeeley/blob/main/README.md#agentic-rag-experimentation)
 
