@@ -22,15 +22,17 @@ Last updated: 13 MAR 2026.
 
 ### Professional
 
-[FDE Interview: Bank Infrastructure](https://github.com/nkeeley/nkeeley/blob/main/README.md#fde-interview-bank-infrastructure)
+[🆕 FDE Interview: Bank Infrastructure](https://github.com/nkeeley/nkeeley/blob/main/README.md#fde-interview-bank-infrastructure)
 
-[FDE Interview: Churn Prevention Dashboard](https://github.com/nkeeley/nkeeley/blob/README.md#project-data-analytics-for-churn-prevention)
+[🆕 FDE Interview: Churn Prevention Dashboard](https://github.com/nkeeley/nkeeley/blob/README.md#project-data-analytics-for-churn-prevention)
 
 [Contract: Webscraping for Medical Marketing Campaign](https://github.com/nkeeley/nkeeley/blob/main/README.md#project-targeted-marketing-campaign-for-urologists-pulmunologists-and-special-infectious-disease-providers)
 
 [Contract: Shopper Marketing ROI Optimization (MSDS Capstone)](https://github.com/nkeeley/nkeeley/blob/main/README.md#capstone-project-measuring-shopper-marketing-effectiveness)
 
 ### Personal
+
+[🆕 Weekend Planner Agent]()
 
 [Agentic RAG Experiement](https://github.com/nkeeley/nkeeley/blob/main/README.md#agentic-rag-experimentation)
 
