@@ -71,7 +71,7 @@ Last updated: 13 MAR 2026.
 
 Language types: Python, JavaScript
 
-A full-stack banking application built as a take-home infrastructure exercise. FastAPI backend with SQLite, React frontend, JWT authentication, encrypted card storage, atomic transfers, and 123 automated tests. [Live demo link](bank-infra-exercise.vercel.app)
+A full-stack banking application built as a take-home infrastructure exercise. FastAPI backend with SQLite, React frontend, JWT authentication, encrypted card storage, atomic transfers, and 123 automated tests. [Live demo link](https://bank-infra-exercise.vercel.app/)
 
 ![image](https://github.com/nkeeley/bank_infra_exercise/blob/main/docs/images/ledger_based_transfers.jpg)
 
